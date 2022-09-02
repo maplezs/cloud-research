@@ -1,4 +1,4 @@
-# Coud Research File
+# Cloud Research File
 misscellaneous file for cloud research group
 ## 1. Setup Prometheus Operator
 ```bash
